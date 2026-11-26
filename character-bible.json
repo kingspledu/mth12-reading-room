@@ -2,7 +2,7 @@
   "book": 12,
   "title": "Polar Bears Past Bedtime",
   "style_reference": "https://kingspledu.github.io/mth04-reading-room/characters.html",
-  "new_image_generation_status": "Jack, Annie, and Seal Hunter v1 generated; remaining cast pending",
+  "new_image_generation_status": "Jack, Annie, Seal Hunter, and Polar Bears v1 generated; owl and huskies pending",
   "characters": [
     {
       "id": "jack",
@@ -502,6 +502,8 @@
   "generated_sheets": {
     "jack": "public/assets/mth12-jack-character-sheet-v1.png",
     "annie": "public/assets/mth12-annie-character-sheet-v1.png",
-    "hunter": "public/assets/mth12-seal-hunter-character-sheet-v1.png"
+    "hunter": "public/assets/mth12-seal-hunter-character-sheet-v1.png",
+    "mother-bear": "public/assets/mth12-polar-bears-character-sheet-v1.png",
+    "cubs": "public/assets/mth12-polar-bears-character-sheet-v1.png"
   }
 }
