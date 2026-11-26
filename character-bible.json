@@ -2,7 +2,7 @@
   "book": 12,
   "title": "Polar Bears Past Bedtime",
   "style_reference": "https://kingspledu.github.io/mth04-reading-room/characters.html",
-  "new_image_generation_status": "blocked_usage_limit_reached",
+  "new_image_generation_status": "Jack and Annie v1 generated; supporting cast pending",
   "characters": [
     {
       "id": "jack",
@@ -498,5 +498,9 @@
       ]
     ]
   },
-  "original_source": "reading-parts.json"
+  "original_source": "reading-parts.json",
+  "generated_sheets": {
+    "jack": "public/assets/mth12-jack-character-sheet-v1.png",
+    "annie": "public/assets/mth12-annie-character-sheet-v1.png"
+  }
 }
